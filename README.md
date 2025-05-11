@@ -1,6 +1,6 @@
 ## Prazer, sou a Gabriela Vieira.
 
-# Habilidades & Competências
+### Habilidades & Competências
 
 ```markdown
 Experiência Profissional
