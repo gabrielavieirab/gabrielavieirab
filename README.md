@@ -1,3 +1,5 @@
+## Prazer, sou a Gabriela Vieira.
+
 # Habilidades & Competências
 
 ```markdown
